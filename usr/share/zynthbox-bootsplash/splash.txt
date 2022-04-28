@@ -1,3 +1,3 @@
 ## Initramfs-Splash
-image=preboot-splash.png
+image=preboot-splash.jpg
 fullscreen=1
