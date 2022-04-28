@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cp -f /usr/share/zynthbox-bootsplash/initramfs.img /boot
 cp -f /usr/share/zynthbox-bootsplash/splash.txt /boot
 cp -f /usr/share/zynthbox-bootsplash/preboot-splash.jpg /boot
 cp -f /usr/share/zynthbox-bootsplash/zynthbox-z2-setup*.deb /boot
