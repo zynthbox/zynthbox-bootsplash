@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cp -f /usr/share/zynthbox-bootsplash/initramfs.img /boot
-cp -f /usr/share/zynthbox-bootsplash/splash.txt /boot
-cp -f /usr/share/zynthbox-bootsplash/preboot-splash.jpg /boot
